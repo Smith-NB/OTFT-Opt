@@ -1,4 +1,5 @@
 # OTFT-Opt
+Organic Thin Film Transistor (OTFT) Optimisation
 
 Contributors: Lara Browne, Josh Mallison, Chris Mills, Nicholas Smith
 
